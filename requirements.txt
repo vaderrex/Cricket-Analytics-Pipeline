@@ -1,0 +1,8 @@
+requests
+tenacity
+python-dotenv
+streamlit
+pymongo
+pyodbc
+pandas
+schedule
